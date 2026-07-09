@@ -1,4 +1,4 @@
-The folder 00\_JFEC\_\[AcceptedPaper] contain codes and data to replicate the results, figures and table of the paper "Interpretable Bayesian machine learning for assessing the effects of climate news shocks on firm-level returns"
+The folder 00\_JFEC\_\[AcceptedPaper] contains codes and data to replicate the results, figures and table of the paper "Interpretable Bayesian machine learning for assessing the effects of climate news shocks on firm-level returns"
 
 Note: LSEG Datastream data is propietary and cannot be shared.
 
