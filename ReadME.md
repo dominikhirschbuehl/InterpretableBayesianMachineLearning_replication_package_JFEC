@@ -22,7 +22,7 @@ Luca Tiozzo Pezzoli (Luca.Tiozzo-Pezzoli@uib.es)
 
 
 
-Luca Barbaglia (luca.barbaglia@ec.europa.eu)
+Luca Barbaglia (Luca.Barbaglia@ec.europa.eu)
 
 
 
