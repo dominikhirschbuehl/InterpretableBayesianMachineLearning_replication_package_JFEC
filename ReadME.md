@@ -59,9 +59,8 @@ Luca Barbaglia (Luca.Barbaglia@ec.europa.eu)
 > "1\_ESTIMATION.R": Loads the DATA list from "Data/OUTPUT/" and sources "FUNCTIONS.R". Winsorizes and demeans stock returns, then runs two distinct BART estimation blocks: one considering the climate change index and another regarding natural disaster shocks index. Saves output as "RESULTS\_CC\_ND\_20000.RData" to the "Estimations/" directory.
 
 > "2\_GRAPHS\_\&\_TABLES.R": Processes "RESULTS\_CC\_ND\_20000.RData" alongside the text data and cleaned financial data to generate the main text figures and tables.
->>>>>>\[HERE WE MISS THE TABLE AND FIGURE FOR THE ASSET ALLOCATION SECTION]<<<<<<
 
-\---
+
 
 ## \---> Folder "Estimations"
 
