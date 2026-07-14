@@ -78,7 +78,7 @@ Target export directory for all figures produced by running "2\_GRAPHS\_\&\_TABL
 
 ## \---> HOW TO REPLICATE
 
-At the begining you should have in your main directory the two folder "Code" and "Data" with the main codes and the raw database. Whe you run "0\_CLEANING.R" the folders "Estimations" and "Graphs" are automatically generated.
+At the begining you should have in your main directory the two folder "Code" and "Data" with the main codes and the raw database. When you run "0\_CLEANING.R" the folders "Estimations" and "Graphs" are automatically generated.
 
 Run:
 
