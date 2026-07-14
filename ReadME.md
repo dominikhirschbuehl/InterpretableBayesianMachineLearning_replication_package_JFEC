@@ -61,6 +61,7 @@ Luca Barbaglia (Luca.Barbaglia@ec.europa.eu)
 > "2\_GRAPHS\_\&\_TABLES.R": Processes "RESULTS\_CC\_ND\_20000.RData" alongside the text data and cleaned financial data to generate the main text figures and tables.
 
 
+> "3_ASSET_ALLOCATION.R": Loads the DATA list and processes "RESULTS\_CC\_ND\_20000.RData" for the asset allocation exercise.
 
 ## \---> Folder "Estimations"
 
@@ -71,7 +72,6 @@ Stores the final model outputs. Contains "RESULTS\_CC\_ND\_20000.RData" once "1\
 ## \---> Folder "Graphs"
 
 Target export directory for all figures produced by running "2\_GRAPHS\_\&\_TABLES.R".
-
 
 
 \---
